@@ -1,0 +1,2743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>ANTI-PROROGATION PROTESTS</name>
+    <description><![CDATA[Resources at https://www.stopthecoup.org.uk/<br>Submit an event http://bit.ly/submityourprotest <br>Support Defend Democracy http://www.gofundme.com/DefendDemocracy<br><br>Make sure you are registered to vote, it only takes an NI number and a few minutes! https://www.gov.uk/register-to-vote A General Election is coming!<br><br>Events will be checked before inclusion (we will not publish events that are outside MP's houses or constituency offices or anywhere else where workers or family members may feel intimidated, or a crowd would be unsafe). ]]></description>
+    <Style id="icon-1739-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-11.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-11.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-1A237E-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-13.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-1A237E-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-13.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-9C27B0-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-14.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-9C27B0-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-14.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-FBC02D-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-12.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-FBC02D-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-12.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-FF5252-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-15.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-FF5252-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-15.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>2nd September</name>
+      <Placemark>
+        <name>Sandbach Crosses
+</name>
+        <description>2nd September 18:00 - 19:00 Market Square, Sandbach  https://www.facebook.com/events/885646278480991/</description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <Point>
+          <coordinates>
+            -2.36212699999999,53.1441147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manchester Peterloo Massacre Memorial</name>
+        <description>2nd Sept - 6:30pm - Manchester, Peterloo Memorial. https://keepournhspublic.com/event/manchester-stop-boris-johnson/</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2457607,53.4764017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes Central
+</name>
+        <description>2nd September 18:00 - 20:00 outside Milton Keynes Central rail station https://www.facebook.com/events/411142012868816</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -0.7737378,52.0338956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Macclesfield Market Place</name>
+        <description>2nd Sept - 4:30pm - Macclesfield, Market Place. Event: https://www.facebook.com/events/502698373637022/</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -2.12550310000006,53.2611455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whitstable, Library
+</name>
+        <description>2nd September, 17:30 - 18:30 Outside Whitstable Library every night this week  https://www.facebook.com/events/611992362658919/</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            1.02462620000006,51.3561477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Copenhagen British Embassy</name>
+        <description>2nd September 12:00 - 13:30 local time Kastelsvej 36-40, 2100 København, Denmark https://www.facebook.com/events/707669713085568/?ti=icl</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            12.5855458999999,55.695905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taunton Market House
+</name>
+        <description>2nd September 17:00 - 19:00 Market House, Taunton https://www.facebook.com/events/381186939462747/</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -3.10295569999994,51.0146772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gloucester Shire Hall
+</name>
+        <description>2nd September 17:30 -18:30 Outside Shire Hall, Westgate St, Gloucester https://www.facebook.com/events/2414114392244591</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -2.24860030000002,51.866453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salisbury Market Sq
+</name>
+        <description>2nd September 16:00 - 17:30 Salisbury Market Square https://www.facebook.com/events/355653275310550/</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -1.79481379999993,51.0691189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bridgwater, Cornhill
+</name>
+        <description><![CDATA[2nd September 15:00 - 17:00 Blake's Statue, the Cornhill, Bridgwater town centre https://www.facebook.com/events/2476658399224526]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -3.00401890000001,51.1283008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Birkenhead, Hamilton Sq
+</name>
+        <description>2nd September 18:00 - 20:00 Hamilton Sq., Birkenhead https://www.facebook.com/events/708250436287749/</description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -3.01357780000001,53.3948366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London, Parliament Square</name>
+        <description>2nd September 17:30 - 18:30 Parliament Sq. https://www.facebook.com/events/423072994994350/</description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1267187,51.5008423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leominster, Corn Sq
+</name>
+        <description>2nd September 16:30 - 17:30 Ranking Club, 5-7 Corn Square, Leominster  https://www.facebook.com/events/2445635185528386/</description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -2.73778340000001,52.2271974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westminster Old Palace Yard</name>
+        <description><![CDATA[<img src="https://doc-04-bg-mymaps.googleusercontent.com/untrusted/hostedimage/tqeo64jjngkcd55liuhmv2kaus/03kue852t1is8cjtb9m6cs5s08/1567447200000/iv4lkrb8j58pdfxLZf_JH3JPjIKgTzKr/00531705010600101251/1AF2TALohXroQITCtJMkbP_akBICy49OlyItva6mQK_TSw25XLhxZd3-hBE4AYfFICGr51RB6YT3FIHdZUIJVIehHtRYfZLuZvd4mu2vSpnxfxMmDqv8gWWEp9op0D8ichZduAf044pYDHv-wSigaV0Q0oxYSsyK_AnJvjJPm9fMjOhaYi3-rLJ_xYQuVoGoSEi0eJ9wiS5TK3LFGb0lqT34tGu5PRNzbvGfzcuJep-ZQ0mWfm-0DIKhMjZGk0wXl0xAYiWPThAmK9933AYhHNJrMAlgFw0QCkQ?fife" height="200" width="auto" /><br><br>2nd September  & then Every Day, 08:00 - 20:00 SODEM Super Protest Old Palace Yard SW1 https://www.facebook.com/events/369108457341725/]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-04-bg-mymaps.googleusercontent.com/untrusted/hostedimage/tqeo64jjngkcd55liuhmv2kaus/03kue852t1is8cjtb9m6cs5s08/1567447200000/iv4lkrb8j58pdfxLZf_JH3JPjIKgTzKr/00531705010600101251/1AF2TALohXroQITCtJMkbP_akBICy49OlyItva6mQK_TSw25XLhxZd3-hBE4AYfFICGr51RB6YT3FIHdZUIJVIehHtRYfZLuZvd4mu2vSpnxfxMmDqv8gWWEp9op0D8ichZduAf044pYDHv-wSigaV0Q0oxYSsyK_AnJvjJPm9fMjOhaYi3-rLJ_xYQuVoGoSEi0eJ9wiS5TK3LFGb0lqT34tGu5PRNzbvGfzcuJep-ZQ0mWfm-0DIKhMjZGk0wXl0xAYiWPThAmK9933AYhHNJrMAlgFw0QCkQ?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1259853,51.4995814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Huddersfield, St Georges Sq
+</name>
+        <description>2nd September 17:30 - 19:30 St Georges Sq, Huddersfield. https://www.facebook.com/events/462350207695626/</description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -1.78431639999997,53.6486073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>3rd September</name>
+      <Placemark>
+        <name>Cardiff Aneurin Bevan Statue</name>
+        <description><![CDATA[3rd Sept - 6pm - Cardiff, Aneurin Bevan Statue by Cardiff People's Assembly and Stand Up to Racism Cardiff. Event: https://www.facebook.com/events/228094348115931/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -3.17870429999994,51.481601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reading Town Hall</name>
+        <description>3rd September 17:00 Reading Town Hall https://www.facebook.com/events/2129510260680275/</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -0.970024299999977,51.4570906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bristol,  College Green
+</name>
+        <description>3rd Sept - 5pm - Bristol, College Green https://www.facebook.com/events/358093795113799/</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6004106,51.4523165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whitehall, London
+</name>
+        <description>3rd September 08:00 - 18:00 Big SODEM Whitehall Watch protest</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -0.126651799999991,51.5051851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dublin, British Embassy
+</name>
+        <description>3rd September 18:00 - 19:00 Outside the British Embassy, Dublin. Organised by @britsnotout https://www.thejournal.ie/uk-parliament-suspension-protest-dublin-4787578-Aug2019/</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -6.22394259999999,53.3250838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cardiff, Commercial St
+</name>
+        <description>3rd September 18:30 - 19:30 Outside Westgate Hotel, Commercial Street https://www.facebook.com/events/2331580333561960/</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -2.99621860000002,51.5872514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coventry Friargate
+</name>
+        <description>3rd September 18:00 20:30 Friargate Boulevard (near Coventry train station), Coventry https://www.facebook.com/events/520820535390344/</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -1.51265710000007,52.4014331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portsmouth, Guildhall Square</name>
+        <description>3rd September 18:30 - 20:00 Guildhall Square Portsmouth https://www.facebook.com/events/3022786367796414</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -1.091975,50.7973276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southend, Victoria Plaza
+</name>
+        <description>3rd September 18:00 - 19:30 Outside the Odeon Cinema, Victoria Plaza  https://www.facebook.com/events/2427410187506971/</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            0.7114702,51.5407871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abingdon Market Place
+</name>
+        <description>3rd September 18:30 - 20:30 Abingdon Market Place https://www.facebook.com/events/945966432409002/</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -1.28139529999999,51.6699926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norwich City Hall
+</name>
+        <description><![CDATA[3rd September 18:00 - 19:00 City Hall, St Peter's St, Norwich https://www.facebook.com/events/926180314397905/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            1.29181540000002,52.6283655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Newport, Commercial St
+</name>
+        <description>3rd September 18:30 - 19:30 Outside Westgate Hotel, Commercial St, NEWPORT, https://www.facebook.com/events/2331580333561960/</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -2.99703220000004,51.5875598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corby, James Ashworth VC Square</name>
+        <description>3rd September 19:30 - 21:00 James Ashworth VC Square, Corby NN17 1QG https://www.facebook.com/events/486187195555692/</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -0.704217699999958,52.4875803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lowestoft Shopping Centre
+</name>
+        <description>3rd September 17:30 - 20:00   Lowestoft shopping precinct ,London Rd N, Lowestoft https://www.facebook.com/events/391159874934938/?ti=as</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            1.75274149999996,52.4758224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Austell, Truro Rd
+</name>
+        <description><![CDATA[3rd September 10:3:0 - 12:00 Mural at the corner of West Hill, Trinity St & Truro Rd https://events.labour.org.uk/event/280326]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -4.79659670000001,50.3386234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ammanford Park 
+</name>
+        <description>3rd September 17:30 - 18:00 Ammanford Park Ammanford https://www.facebook.com/events/391904951469636/</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -3.99236369999994,51.7922311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oxford, Carfax Tower
+</name>
+        <description>3rd September 17:30 - 19:00 Carfax Tower, Queen St, Oxford https://www.facebook.com/events/498016097432947/</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -1.25847150000004,51.7519268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wakefield, Bull Ring
+</name>
+        <description>3rd September 12:00 - 17:30 Bull Ring, Wakefield https://www.facebook.com/events/939117759814167</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -1.49840270000004,53.6831749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Edinburgh, Parliament Square</name>
+        <description>3rd September 10:00 - 13:00  Parliament Square, Edinburgh https://www.facebook.com/EuroMoveScotland/</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -3.19010040000001,55.9494606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>4th September</name>
+      <Placemark>
+        <name>Whitehall, London
+</name>
+        <description><![CDATA[4th September 11:00 @BooTheCoup - BOOOO! Prime Minister Johnson & his cabal all the way from Downing St to The House for the first PMQs after the summer recess https://twitter.com/boothecoup/status/1166576288280322049]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1262012,51.5030614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Wrexham, Queen's Square
+]]></name>
+        <description>4th September 17:30 - 21:00 Queens Square, Wrexham https://www.facebook.com/events/516410758899416/</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9932215,53.046367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abergavenny Market Hall
+</name>
+        <description>4th September 19:00 - 20:30 Market Hall, Cross St, Aberegavenny https://twitter.com/BandRforEurope/status/1167891138386132994</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            -3.01809230000003,51.821906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Llandovery Castle Car Park
+</name>
+        <description><![CDATA[4th September 17:30 -18:30 Castle Car Park, Llandovery https://www.eventbrite.co.uk/e/stop-the-coup-defend-democracy-protest-tickets-71252136057?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            -3.7968753,51.9934613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>5th September</name>
+      <Placemark>
+        <name>Machynlleth Clock Tower
+</name>
+        <description>5th September 19:00 - 20:00 Machynlleth Clock Tower https://www.facebook.com/events/486471758819882/</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -3.852891,52.5913867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woking War Memorial 
+</name>
+        <description>5th September 17:00 - 19:00 Peaceful protest on Jubilee Square, around the war memorial. https://twitter.com/running4rights/status/1168150659910291457?s=12</description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -0.559285600000067,51.3202931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cardiff, The Senedd
+</name>
+        <description>5th September 17:30 - 18:30 Rally at the Senedd recall, The Senedd, Cardiff Bay https://www.facebook.com/events/389429891758263/</description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -3.16165439999997,51.4643666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>6th September</name>
+      <Placemark>
+        <name>Hastings, Battle Rd 6th September
+</name>
+        <description>6th September 14:00 - 20:00   Asda St Leonards Battle Rd, Hastings  https://www.facebook.com/events/2707429882601563/</description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            0.554703000000018,50.8695217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Welwyn Garden City Howard Centre
+</name>
+        <description>6th September 17:00 - 19:00 Outside main entrance of Howard Centre, Welwyn Garden City https://www.facebook.com/events/1172537146288388/</description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -0.204675500000008,51.8011002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>7th September</name>
+      <Placemark>
+        <name>Peterborough Cathedral Sq
+</name>
+        <description>7th September 12:00 - 15:00 Cathedral Sq, Peterborough https://www.facebook.com/events/1481464161991478/</description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            -0.243053199999963,52.5723883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bournemouth Square 7th September
+</name>
+        <description>7th September 11:00 - 13:00 The Square, Bournemouth https://www.facebook.com/events/415208365766579/</description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            -1.8799112,50.7202524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hitchin, Bancroft Park 7th September
+</name>
+        <description>7th September 12:00 - 15:00 Bancroft Park, Hitchin. https://www.facebook.com/events/2082577598711880/</description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            -0.27640980000001,51.9511617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kendal New Road 7th Sept
+</name>
+        <description>7th September 11:00 - 14:00 New Road Kendal https://www.facebook.com/events/604882606704780/</description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7431862,54.327854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Berlin, Panser Platz
+</name>
+        <description><![CDATA[7th September 12:00 - 18:00 local time. Berlin's Big 'Stop The Coup' protest - Panser Platz, Unter den Linden, 10117 Berlin  https://www.facebook.com/events/2382963588645899/]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            13.3788766,52.5163987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chester, Bridge St
+</name>
+        <description>7th September 13:00 - 15:00 Outside Caffe Nero 52 Bridge St, Chester https://www.peoples-vote.uk/chesterremain/_stopthecoup_chester_rally</description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            -2.8915945,53.1896031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Romsey, Palmerston Statue
+</name>
+        <description>7th September 10:00 - 10:30 Palmerston Statue, Market Place, Romsey https://www.facebook.com/events/2364594050419518/</description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            -1.49994900000002,50.9888279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>8th September</name>
+    </Folder>
+    <Folder>
+      <name>Recurring Events</name>
+      <Placemark>
+        <name>Whitstable Library</name>
+        <description>2nd - 6th September  17:30 - 18:30 outside Whitshttps://www.facebook.com/events/415208365766579/</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            1.0245552,51.3558841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nottingham Brian Clough Statue</name>
+        <description>Every Thursday until 31st October - 4-6pm - No Deal Survivors Club, Nottingham, Brian Clough Statue</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            -1.14960719999999,52.9541749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Parliament Square & Whitehall
+]]></name>
+        <description>SODEM protests - 11-6 when Parliament in session  SEE ALSO SODEM SUPER PROTEST OLD PALACE YARD Parliament Square - see @SODEMAction and Whitehall Watch 08:00 - 18:00 Tuesday - Friday https://sodemaction.co.uk/biography/  </description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1265363,51.5005351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hebden Bridge protest
+</name>
+        <description>30th August until the 12th September, every day at 5pm. https://www.facebook.com/events/483680909115919/</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            -2.01406250000002,53.7406504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Todmorden Town Hall
+</name>
+        <description>Everyday, 30th August - 12th September. Town Hall, Todmorden https://www.facebook.com/events/2398586746843434/</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0976342,53.7136915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westminster Old Palace Yard</name>
+        <description>Every Day, 08:00 - 20:00 SODEM Super Protest Old Palace Yard SW1 https://www.facebook.com/events/369108457341725/</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            -0.125641999999971,51.4990738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Future Events</name>
+      <Placemark>
+        <name>Bristol, Water Fountains 10th September
+</name>
+        <description>10th September 17:00 - 23:00 Water Fountains . Bristol City Centre. https://www.facebook.com/events/753491311720972/</description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <Point>
+          <coordinates>
+            -2.5977281,51.4524954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>East Barnet 12th September
+</name>
+        <description>12th September 19:30 - 21:30 East Barnet School. Remain Alliance Public Meeting, tickets needed - book at https://www.facebook.com/events/2211082299019451/</description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <Point>
+          <coordinates>
+            -0.154735399999936,51.6443079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westminster, Parliament Square 12th October
+</name>
+        <description>12th October 13:00 - 20:00 Sit Down  For Your Future protest Parliament Sq. https://www.facebook.com/events/358093795113799/</description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1264398,51.5003815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London St Johns Gardens 12th Oct
+</name>
+        <description><![CDATA[12th October 14:00 - 17:00 St John's Garden London SW1P 4DA organised by @Rally4OurRights]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1278528,51.4944021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Past Events (shown as small dots</name>
+      <Placemark>
+        <name>Manchester Town Hall</name>
+        <description>28th Aug - 4pm - Manchester Town Hall, bring umbrellas. Event: https://www.facebook.com/events/695982937552565/</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -2.24457559999996,53.4792335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St George's Hall Liverpool]]></name>
+        <description><![CDATA[28th Aug - 5:30pm - St George's Plateau, Liverpool by Wirral Trades Union Council. Event: https://www.facebook.com/events/2207016879538955/]]></description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -2.97991239999999,53.4086367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chester Town Hall</name>
+        <description>28th Aug - 7pm - Chester Town Hall by @chesterforeu</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -2.89250330000004,53.1915746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Durham Market Place</name>
+        <description>28th Aug - 6pm - Durham, Marketplace by @DalyPaulvc</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -1.57594940000001,54.7771731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tavistock, Bedford Square</name>
+        <description>8th Aug - 5:30pm - Tavistock (Devon), Bedford Square by @TavyJo</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -4.14478829999996,50.5500926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bristol College Green</name>
+        <description>28th Aug - 5:30pm - Bristol, College Green by @TMCNT</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6007142,51.4519874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brighton Bartholomew Square</name>
+        <description>28th Aug - 5:30pm - Brighton, Bartholomew Square. Event: https://m.facebook.com/events/1186761584818477?%3Fti=ia</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -0.140928600000052,50.8202411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oxford Bonn Square</name>
+        <description>28th Aug - 5:30pm - Oxford, Bonn Square</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -1.25998579999998,51.7517154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MILTON KEYNES CENTRAL</name>
+        <description>28th Aug - 6pm - Milton Keynes Station by @sazmeister88 (bring placards, friends and family, whistles and umbrellas)</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -0.77388110000004,52.0344556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Worthing Town Hall</name>
+        <description>28th Aug - 6:30pm - Worthing Town Hall by @WorthingWestCLP. Bring an umbrella</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -0.372470499999963,50.8145642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cambridge Market Square</name>
+        <description>28th Aug - 6pm - Cambridge, Market Square by Cambridge Stays. Event: https://www.facebook.com/events/639927099831873/</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            0.119032400000037,52.2053745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Birmingham Council House</name>
+        <description>29th Aug - 6pm - Birmingham, Council House (Victoria Square) by @Olly4Northfield @nickyebrennan and @momentum_brum (Cross-party, non-factional event)</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -1.90229320000003,52.4800705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Mound Edinburgh
+</name>
+        <description><![CDATA[28TH Aug - 4pm - Edinburgh, foot of the Mound, moving to Holyrood around 4:30pm by European Movement in Scotland. Post: https://www.facebook.com/story.php?story_fbid=2687949167926486&id=552222038165887]]></description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -3.1964547,55.9512279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cardiff Aneurin Bevan Statue</name>
+        <description>28th Aug - 6pm - Cardiff, Aneurin Bevan Statue by @Cardiff4EU</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -3.17859870000007,51.4815775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abergavenny Market Hall</name>
+        <description>28th Aug - 7pm - Abergavenny, Clock tower by @BandRforEurope</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -3.01811180000004,51.8218998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manchester Cathedral Gardens</name>
+        <description>31st Aug - 12pm - Manchester, Cathedral Gardens. Source @RemainAlliance</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -2.24298049999993,53.4858938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southampton Guildhall Square</name>
+        <description>28th Aug - 7pm - Southampton, Guildhall Square by @blackricheuro</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -1.40501040000004,50.9079979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lancaster City Council</name>
+        <description>28th Aug - 6pm - Lancaster Town Hall by @LancasterForEU</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -2.79779310000004,54.047128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bath Guildhall</name>
+        <description>28th Aug - 5:30pm - Bath Guildhall by @rebechilliard</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -2.35892379999996,51.3822197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nottingham Old Market Square (Slab Square)</name>
+        <description>28th Aug - 7pm - Nottingham, Left Lion on Slab Square by @Kit_Buchan</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -1.15002759999993,52.9532908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Victoria Square, Birmingham</name>
+        <description>28th Aug - 5:30pm - Birmingham, Victoria Square</description>
+        <styleUrl>#icon-1739-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -1.90280110000003,52.4789524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torquay Castle Circus</name>
+        <description>29th August 18:30 - 19:30 Castle Circus, Torquay https://www.facebook.com/events/424664864819365/</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -3.5322813,50.4683038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City Square (Leeds) 11:00
+</name>
+        <description>29thy August 11:00 Defend Democracy: Stop the Parliamentary Shutdown Leeds https://www.facebook.com/events/431073174172423/</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -1.5479399,53.7963669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Birmingham Victoria Square</name>
+        <description>29th Aug - 5:30pm - Birmingham, Victoria Square by @Olly4Northfield @nickyebrennan and @momentum_brum (Cross-party, non-factional event)</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -1.90278030000002,52.4797591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whitehall, London
+</name>
+        <description>29th Aug - 11am - Whitehall by @SODEMAction #WhitehallWatch</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1262359,51.5031932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rugby Town Hall</name>
+        <description>29th Aug - 6pm - Rugby Town Hall. Event: http://www.facebook.com/events/1479462852196432/</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -1.26341290000005,52.3750716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cheltenham Henrietta Street</name>
+        <description>29th Aug - 1pm - Cheltenham, Henrietta Street by @Chelt4Europe</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -2.07699890000004,51.9033299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Truro Quay Street</name>
+        <description>29th Aug - 10:30am - Truro, Quay St by @Cornwall4EU</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -5.04889619999994,50.2629787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barnstaple, The Square</name>
+        <description>29th August 18:00 - 20:00 Barnstaple Square</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -4.05874089999998,51.0782715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guidford Guildhall</name>
+        <description>29th Aug - 5:30pm - Guildford Guildhall, High Street. Event: https://www.facebook.com/events/603641210042867/?ti=icl</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -0.572359099999971,51.235957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leicester Haymarket Memorial Clock Tower</name>
+        <description>29th Aug - 5:30pm - Leicester, City Clock Tower by @Kieran_Blacker</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -1.1333814,52.6361076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norwich City Hall</name>
+        <description>29th Aug - 5pm - Norwich City Hall. Event: https://www.facebook.com/events/454753188714990/</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            1.291606,52.6286447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tarporley, The Chestnut Pavilion
+</name>
+        <description>29th August 17:00 - 20:00 The Chesnut Pavilion, High St, Tarporley</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6697601,53.1617352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hemel Hempstead ,The Bury</name>
+        <description>29th August, 6:30pm The Bury, Queensway, Hemel Hempstead.https://www.facebook.com/events/1499050590246681</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -0.473868000000039,51.757225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Swansea Guildhall</name>
+        <description>29th Aug - 4:30pm - Swansea Guildhall/Brangwyn Hallb by Swansea for Europe. Post: https://www.facebook.com/443924885942753/posts/919518238383413/</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -3.96058679999999,51.6138826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coventry Council House</name>
+        <description>29th Aug - 5:30pm - Coventry, Council House by @peoplesvotecov Event: https://www.facebook.com/events/2429900900580509/</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -1.50771880000002,52.407559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City Square (Leeds) 17:30
+</name>
+        <description>29th August 17:30 City Square Leeds organised by Leeds for Europe https://www.facebook.com/events/2371865616404873/</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -1.54782190000003,53.7965317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gloucester Shire Hall</name>
+        <description>29th Aug - 5pm - Gloucester, Shire Hall, Westgate Street</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2485173,51.8665763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manchester Albert Square</name>
+        <description>29th Aug - 4pm - Manchester, Albert Square</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2453074,53.4798891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malvern, Bellevue Terrace</name>
+        <description>29th August 18:00 - 20:00 Bellevue Terrace Malvern</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -2.32991010000001,52.1113904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caernarfon Y Maes, </name>
+        <description>29th August 19:30 - 22:30 Y Maes, Caernarfon</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -4.27490399999999,53.1396992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Winsford, The Red Lion</name>
+        <description>August 29th 20:00 The Red Lion, Winsford. https://www.facebook.com/groups/2364128220301277/</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -2.51682510000001,53.1932426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hereford, Penn House
+</name>
+        <description>29th August 16:15 - 20:00 Penn House, King Street, Hereford</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7183034,52.0544251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saffron Walden Town Hall
+</name>
+        <description><![CDATA[29th August 17:30 - 19:00 Town Hall, Saffron Walden - People's Vote Uttlesford]]></description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            0.241617600000041,52.0234874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stoke on Trent - Hanley Town Hall</name>
+        <description>29th August Stoke on Trent  6pm outside Hanley Town Hall</description>
+        <styleUrl>#icon-1739-FBC02D</styleUrl>
+        <Point>
+          <coordinates>
+            -2.17546930000003,53.0236627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bedworth Town Hall
+</name>
+        <description>1st September 09:00 Bedworth Town Hall 50 King St, Bedworth CV12 8JA</description>
+        <styleUrl>#icon-1739-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            -1.47105209999995,52.4797082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bath, Abbey Churchyard</name>
+        <description>1st September 14:00 - 16:00 Abbey Churchyard, Bath. https://www.facebook.com/events/453853568536069/</description>
+        <styleUrl>#icon-1739-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            -2.35936560000005,51.3813727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Newcastle Assembly Rooms</name>
+        <description>1st September 13:30 - 14:45 Assembly Rooms, Fenkle Street Newcastle https://www.eventbrite.co.uk/e/peoples-vote-newcastle-rally-tickets-64718367379</description>
+        <styleUrl>#icon-1739-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            -1.6173644,54.9704373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>High Wycombe Church St.
+</name>
+        <description>1st September 13:00 - 14:00 Church St. High Wycombe organised by @wycombeInEurope https://twitter.com/WycombeInEurope/status/1167352204317118464</description>
+        <styleUrl>#icon-1739-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            -0.751606700000025,51.6300791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bletchley, Bilton Rd
+</name>
+        <description>1st September 13:00 - 14:00 Bilton Road, Bletchley  organised by https://ukpen.eu/</description>
+        <styleUrl>#icon-1739-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            -0.7194426,52.0030619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bromsgrove Sanders Park</name>
+        <description>1st September 14:30 - 15:30 Sanders Park Bromsgrove https://www.facebook.com/events/2337381273182338/</description>
+        <styleUrl>#icon-1739-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            -2.06934969999998,52.334712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reading Prospect Park
+</name>
+        <description>1st September 15:30 - 16:15 Prospect Park walking to Upton Road Reading https://www.facebook.com/130571443639314/posts/2796605307035901/</description>
+        <styleUrl>#icon-1739-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            -1.01176580000003,51.4482628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Redditch, Church Green
+</name>
+        <description>1st September 13:00 - 14:30 Bandstand, Chirch Green, Redditch https://www.facebook.com/events/2355838254536114/?ti=as</description>
+        <styleUrl>#icon-1739-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            -1.94159239999999,52.3072586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lincoln High St
+</name>
+        <description>1st September 13:00 - 15:00 LN2 1HW (march meeting point, finishing at Cornhill) https://www.facebook.com/events/780218829060906/</description>
+        <styleUrl>#icon-1739-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            -0.539945699999976,53.2310538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ludlow Castle Square
+</name>
+        <description>1st September 12:00 - 13:00 Castle Sq Ludlow https://www.facebook.com/events/229140701339993/</description>
+        <styleUrl>#icon-1739-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            -2.72164610000004,52.3671727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villefranche-de-Conflent, France
+</name>
+        <description><![CDATA[1st September 09:00 local time https://www.facebook.com/photo.php?fbid=128695351780160&set=a.124869468829415&type=3&theater]]></description>
+        <styleUrl>#icon-1739-1A237E</styleUrl>
+        <Point>
+          <coordinates>
+            2.36652500000002,42.586754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hatfield Maynard House
+</name>
+        <description>30th August 09:00 - 10:00 Maynard House, Hatfield, AL10 0UR https://www.facebook.com/groups/1235163376512060/</description>
+        <styleUrl>#icon-1739-9C27B0</styleUrl>
+        <Point>
+          <coordinates>
+            -0.226605699999936,51.7648988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chester Town Hall</name>
+        <description>30th Aug - 7:30pm - Chester Town Hall https://twitter.com/chesterforeu/status/1167103800865435648</description>
+        <styleUrl>#icon-1739-9C27B0</styleUrl>
+        <Point>
+          <coordinates>
+            -2.89250330000004,53.1915746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury Town Sq
+</name>
+        <description>30st August 17:30 - 18:30 Shrewsbury Town Square https://www.facebook.com/events/2224946404281938/</description>
+        <styleUrl>#icon-1739-9C27B0</styleUrl>
+        <Point>
+          <coordinates>
+            -2.75466359999996,52.707564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tavistock Town Hall</name>
+        <description>30th August 12:30 - 13:30 Tavistock Town Square. @ljwnorth</description>
+        <styleUrl>#icon-1739-9C27B0</styleUrl>
+        <Point>
+          <coordinates>
+            -4.14420240000004,50.5500387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bideford, The Quay</name>
+        <description>30th August 17:30 - 19:00 Kingsley Statue, The Quay, Bideford https://www.facebook.com/events/2441429779461560/</description>
+        <styleUrl>#icon-1739-9C27B0</styleUrl>
+        <Point>
+          <coordinates>
+            -4.20434850000004,51.019623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodbridge, Melton Station
+</name>
+        <description>30th August 15:30 - 17:00 Melton Railway Station - Opposite East Suffolk District Council https://twitter.com/JulesEwartSuff/status/1167308576232071168</description>
+        <styleUrl>#icon-1739-9C27B0</styleUrl>
+        <Point>
+          <coordinates>
+            1.3223543,52.0961732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Weston-Super-Mare South Parade
+</name>
+        <description>30th August 18:00 til late Italian Gardens, South Parade, Weston-Super-Mare https://www.facebook.com/events/427785764747359/</description>
+        <styleUrl>#icon-1739-9C27B0</styleUrl>
+        <Point>
+          <coordinates>
+            -2.98022820000006,51.3500087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussels, British Embassy</name>
+        <description><![CDATA[30th August 12:30 - 14:30 Outside British Embassy, Avenue d'Auderghem 12, 1000 Bruxelles, Belgium  https://www.facebook.com/events/423241694955543/]]></description>
+        <styleUrl>#icon-1739-9C27B0</styleUrl>
+        <Point>
+          <coordinates>
+            4.38454709999996,50.8416576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saffron Walden Town Hall</name>
+        <description><![CDATA[30th August 17:30 - 18:00 Town Hall, Market St Saffron Walden. Organised by People's Vote Uttlesford https://www.facebook.com/peoplesvoteuttlesford/]]></description>
+        <styleUrl>#icon-1739-9C27B0</styleUrl>
+        <Point>
+          <coordinates>
+            0.241360600000007,52.0235914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Penzance Lloyds Bank</name>
+        <description>30th August 10:00 - 13:00 Market Hall (Lloyds Bank) Penzance organised by Cornwall Greens</description>
+        <styleUrl>#icon-1739-9C27B0</styleUrl>
+        <Point>
+          <coordinates>
+            -5.5371522,50.1186228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hebden Bridge 
+</name>
+        <description>30th August 17:00 - 18:00 Holme St Hebden Bridge https://www.facebook.com/events/483680909115919/</description>
+        <styleUrl>#icon-1739-9C27B0</styleUrl>
+        <Point>
+          <coordinates>
+            -2.01406250000002,53.7406504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bangor Clock Tower</name>
+        <description>31st August 11:00 - 13:00 Bangor Clock Tower, City Centre. https://www.facebook.com/events/427493211200456/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -4.12569789999998,53.2272015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malaga, Spain - British Consulate 
+</name>
+        <description>31st August 15:00 - 18:00 local time Calle Mauricio Moro Pareto 2, Edificio Eurocom, 29006 Málaga, Spain. https://www.facebook.com/events/488476788632684/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -4.43444590000001,36.7137947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ledbury, High Street
+</name>
+        <description>31 August 10:00 - 13:00 High St Ledbury https://www.facebook.com/events/1446703375488915/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.42237109999996,52.0371804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Windsor, Eton Bridge
+</name>
+        <description>31st August 11:00 - 13:00 Eton Bridge, Windsor. Organised by Defend Democracy- Windsor https://www.facebook.com/events/2385044218387123/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -0.6084322,51.4859527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Newbury Market Place
+</name>
+        <description>31st August 11:30 - 14:00 Market Place Newbury. Organised by @WestBerksLibDems</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.32349390000002,51.4006231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tonbridge Big Bridge
+</name>
+        <description>31st August  11:00 -13:00 The Big Bridge Tonbridge https://www.facebook.com/events/2352371255004144/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            0.2749688,51.1955007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dundee City Square</name>
+        <description>31st Aug - 2pm - Dundee City Square. Event: https://www.facebook.com/events/2352609764963954/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.96941790000005,56.4602755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aberystwyth Promenade, Constitution Hill End</name>
+        <description>31st August 13:00 Aberystwyth Promenade, Constitution Hill End https://www.facebook.com/events/2350838354984558</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -4.0842765,52.4234596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bristol College Green
+</name>
+        <description>31st August 12:00 15:00   College Green, Bristolhttps://www.facebook.com/events/1803491336460909/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6006819,51.4525705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Exeter Bedford Sq
+</name>
+        <description>31st August 11:00 - 13:00 Exeter Bedford Square https://www.facebook.com/events/928203560867429/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -3.52902419999998,50.7235362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manchester Cathedral Gardens</name>
+        <description>31st Aug - 12pm - Manchester, Cathedral Gardens. https://www.facebook.com/events/369140634025332/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.24298049999993,53.4858938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nottingham Brian Clough Statue</name>
+        <description>31st Aug - 11am - Nottingham, Brian Clough Statue by @EuropeNotts https://www.facebook.com/events/1988446034589961/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.14960719999999,52.9541749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sheffield Town Hall</name>
+        <description>31st Aug - 11am - Sheffield, Town Hall by Sheffield Labour and Another Europe is Possible. Event: https://www.facebook.com/events/372268690330950/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.46895489999997,53.3803262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Newcastle Monument</name>
+        <description>31st Aug - 11:00 - Newcastle, Monument by @NE4EU and Another Europe is Possible. Event: https://www.facebook.com/events/2349158705192165/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.61293690000002,54.9738838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leeds Art Gallery
+</name>
+        <description>31st Aug - 11am - Leeds, Art Gallery by Leeds Labour and Another Europe is Possible. Event: https://www.facebook.com/events/431073174172423/ </description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.5482089,53.7998495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>York Saint Helen’s Square</name>
+        <description>31st Aug - 11am - York, St. Helen Square by Another Europe is Possible. Event: https://www.facebook.com/events/328810271207030/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.08427189999998,53.9602873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bournemouth Square</name>
+        <description>31st August 11:00 - 13:00 The Square, Bournemouth then to the Pier . https://www.facebook.com/events/406498493551300/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.87859279999998,50.7201856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St George's Plateau Liverpool]]></name>
+        <description><![CDATA[31st Aug - 12pm - Liverpool, St George's Hall by Another Europe is Possible. Event: https://www.facebook.com/events/688925221575637/]]></description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.97991239999999,53.4086367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glasgow George Square</name>
+        <description>31st Aug - 2pm - Glasgow, George Square by Another Europe is Possible. Event: https://www.facebook.com/events/492734901558566/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -4.2501651,55.8611637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Durham Millenium Square</name>
+        <description>31st Aug - 12pm - Durham, Millennium Square https://twitter.com/DalyPaulvc/status/1167018189609414657</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.57519560000003,54.7781475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Birmingham Victoria Square
+</name>
+        <description>31st Aug - 1pm - Birmingham, Victoria Square. Event: https://www.facebook.com/events/816793245389174</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.9024387,52.4796635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Newport IoW Saint Thomas' Square]]></name>
+        <description><![CDATA[31st Aug - 11am - Newport, Isle of Wight, St Thomas's Square https://twitter.com/IoWForEurope/status/1167377104289312768]]></description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.29344700000001,50.7000084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brighton The Level</name>
+        <description>31st Aug - 12:00 - 14:00 Brighton, The Level https://www.facebook.com/events/2374600776084888/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -0.133252099999936,50.8310776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Swindon, 29B Wood St</name>
+        <description>31st Aug - 11am - Swindon, 29B Wood Street, Old Town by Swindon Trade Union Council and Swindon is Antifascist. Event: https://www.facebook.com/events/717723805341156/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.77634179999995,51.5523172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leamington Spa Pump Rooms</name>
+        <description>31st Aug - 12pm - Leamington Spa, Pump Room Gardens. Event: https://www.facebook.com/events/503662107126752/?ti=icl</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.53410450000001,52.2869838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Worcester Cathedral Square</name>
+        <description>31st Aug - 12pm - Worcester, Cathedral Square https://twitter.com/4Worcestershire/status/1167092607933198336?s=20</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.21981219999998,52.1899552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buxton, The Slopes
+</name>
+        <description>31st August 13:00 - 14:00 Turner Memorial, The Slopes, Buxton. https://www.facebook.com/events/2208026072660076/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.9136084,53.2569744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clitheroe</name>
+        <description>31st Aug - 11am - Clitheroe. Location tbc. Event: https://www.facebook.com/events/388248935226017/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.39308299999993,53.871098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plymouth, Armada Way
+</name>
+        <description>31st August 11:00 - 13:00 The Sundial, Armada Way, Plymouth https://www.facebook.com/events/765307420551019</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -4.1423674,50.3713773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cambridge Guildhall
+</name>
+        <description>31st August 12:00 - 14:00 Outside the Guildhall, Market Hill, Cambridge https://www.facebook.com/events/2071944683100575/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            0.119355499999983,52.20486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Darlington, High Row
+</name>
+        <description>31st August, 12:00 - 14:00 High Row, Darlington. https://www.facebook.com/events/1315070705337291/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.55555440000001,54.5254363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Newbury Market Place
+</name>
+        <description>31st August 11:30 - 13:00 Market Place, Newbury https://www.facebook.com/events/2572747596138166/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.32349390000002,51.4006231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oxford Broad Street</name>
+        <description>31st August 11:00 - 12:00 Broad Street, Oxford www.facebook.com/events/421595635122197/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.25670749999995,51.7543894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saffron Walden King Street
+</name>
+        <description><![CDATA[31st August 09:00 - 13:00 10 King Street, Saffron Walden, outside Monsoon. Organisers People's Vote Uttlesford]]></description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            0.239975200000003,52.0233666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Berlin Unter den Linden</name>
+        <description>31th August 11:00 - 14:00 Unter den Linden, 101177 Berlin in front of the Hotel Adlon https://www.facebook.com/events/369402377329396/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            13.3801595,52.5163097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aberdeen Castlegate </name>
+        <description>31st August 12:00 - 15:00 Castlegate Aberdeen. https://www.facebook.com/events/509133393181552/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0932142,57.1481625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lancaster Town Hall
+</name>
+        <description>31st August 13:00 - 16:00 Town Hall, Lancaster https://www.facebook.com/events/397022764284967/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7981114,54.0472608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kendal Town Hall
+</name>
+        <description>31st August 11:00 - 13:00 Kendal Town Hall, 9a Lowther St, Kendal LA9 4DL https://www.facebook.com/events/446374716087361</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.74729530000002,54.3268654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chichester Market Cross
+</name>
+        <description>31st August 12:00 - 13:00 Chichester Market Cross, North St. https://www.facebook.com/events/2764760693535965/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -0.779106500000012,50.836292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Belfast City Hall
+</name>
+        <description>31st August 10:00 - 13:00 Belfast City Hall Organised by @stopthecoupNI https://www.facebook.com/events/1352617334889119/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -5.93078830000002,54.596556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hitchin Market Place
+</name>
+        <description>31st August 12:00 - 15:00 Market Place, Hitchin, North Hertfordshire https://www.facebook.com/events/605673036627265/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -0.2767711,51.9472762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stroud Subscription Rooms
+</name>
+        <description>31st August 11:00 - 12:00 Subscription Rooms, Stroud GL5 1AE https://www.facebook.com/events/948237472179764/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.21722810000006,51.744874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Preston, Harris Museum
+</name>
+        <description>31st August 14:30 - 17:00 Harris Museum, Preston https://www.facebook.com/events/770163596773615</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.69850889999998,53.7590815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inverness, Falcon Square</name>
+        <description>31st August 12:00 - 16:00 Falcon Sq, Inverness https://www.facebook.com/events/451813638748612/?ti=cl</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -4.22251470000003,57.4797638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Edinburgh - foot of The Mound
+</name>
+        <description><![CDATA[31st August 11:00 - 14:00 Foot of The Mound 11am: Vigil /walking vigil, foot of Mound<br>11am-4pm: stall, Portobello Big Beach Busk https://twitter.com/euromovescot/status/1167048236504363010?s=21]]></description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -3.1954313,55.9514329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Doncaster Mansion House
+</name>
+        <description>31st August 12:00 - 13:00 Mansion House, Doncaster https://www.facebook.com/events/2320095401452965/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.13441160000002,53.5230615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Devizes Market Place
+</name>
+        <description><![CDATA[31st August 10:00 - 13:00 Market Place, Devizes https://www.facebook.com/story.php?story_fbid=2377254905863947&id=2155890578000382]]></description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.99617030000002,51.3521755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bishops Stortford Market Sq
+</name>
+        <description>31st August 10:30 - 14:30 Bishops Stortford Market Sq  https://www.peoples-vote.uk/easthertsforeurope/bishop_s_stortford_street_stall_31_august</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            0.158698800000025,51.870742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Derby City Council Offices
+</name>
+        <description><![CDATA[31st August 14:20 16:00 Derby City Council Offices https://www.facebook.com/europeanmovementderbyshire/?ref=aymt_homepage_panel&eid=ARBRvQZ4yvYLVnigoZpuUTmJj29YPofhNC_8OU-lxzmQgZtVW_D8BpnJutxcedMkNF297AU_Fcs8lj3s]]></description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.4748497,52.9231368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ipswich Cornhill
+</name>
+        <description>31st August 12:00 -15:00 Cornhill, Ipswich https://www.facebook.com/299778467092217/posts/746246742445385/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            1.1526006,52.0578345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Middlesborough Centre Square
+</name>
+        <description>31st August 12:00 - 14:00 Centre Sq Middlesborough organised by @Tees4Europe https://twitter.com/Tees4Europe/status/1167119416233988103</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2337116,54.5748052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lerwick Market Cross
+</name>
+        <description>31st August 13:30 - 14:30 Lerwick Market Cross</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.14294040000004,60.1530669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Downing Street, London
+</name>
+        <description>31st August 12:00 - 14:00 Downing Sthttps://www.facebook.com/events/2403783296367975//Whitehall</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1264503,51.5031554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cardiff Westgate St
+</name>
+        <description>31st August 12:00 - 13:30 Westgate Street, Cardiff organised by @cardiff4EU</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -3.1807352,51.4795053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colwyn Bay Clock Tower
+</name>
+        <description>31st August 11:00 - 13:00 Clock Tower, Bottom of Station Road. https://www.facebook.com/events/1702480939896914/?ti=icl</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -3.7267129,53.2962801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haverfordwest Castle Sq
+</name>
+        <description>31st August 12:00 - 14:00   Castle Sq Haverfordwest https://www.facebook.com/events/1297514923759729/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -4.96874550000007,51.8021555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hull, Queen Victoria Square
+</name>
+        <description>31st August 11:00 - 12:30 Queen Victoria Square Hull https://www.facebook.com/hullandeastyorkshire4eu</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -0.3390493,53.7437317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Winchester Butter Cross
+</name>
+        <description>31st August 10:30 -13:00 The Butter Cross, High St., Winchester https://www.facebook.com/events/864837797234895/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.3150171,51.062701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cirencester Market Place
+</name>
+        <description>31st August 11:00 - 13:00 Market Place, Cirencester. Organised by cotswolds4europe https://www.facebook.com/events/2457919551106419/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.96738719999996,51.7169981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bodmin, Mount Folly
+</name>
+        <description>31st August 11:00 - 13:00 Mount Folly Square, Bodmin https://www.facebook.com/events/655696151590420</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -4.71843910000007,50.4707649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hereford Greyfriars Bridge
+</name>
+        <description>31st August 10:00 11:30 Greyfriars Bridge Hereford https://www.facebook.com/events/500212080549965/?ti=cl</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.72060920000001,52.0536306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Romsey Palmerston Memorial</name>
+        <description>31st August (and every Saturday) 10:00 - 12:00 Palmerston Statue, Market Place, Romsey https://www.facebook.com/events/2364594050419518/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.49989129999994,50.9890855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Albans, The Clock Tower</name>
+        <description>31st August 11:00 - 13:00   Colco Tower, High St, St. Albans https://www.facebook.com/events/2273374112779380</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -0.34051199999999,51.751298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lewes Cliffe Bridge
+</name>
+        <description>31st August 11:00 - 13:00 Cliffe Bridge, Lewes https://www.facebook.com/events/722451401511933/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            0.0160028,50.8741014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[King's Lynn High St
+]]></name>
+        <description>31st August 11:00 - 13:00 High St (New Conduit St) Kings Lynn https://www.facebook.com/events/642715536220184/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            0.39701679999996,52.7535436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amsterdam Dam Square
+</name>
+        <description>31st August 14:00 - 16:00 Dam Square Amsterdam Netherlands https://www.facebook.com/events/667961760370664/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            4.89264730000002,52.3730701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riga, in front of the British Embassy
+</name>
+        <description>31st August 13:00 - 14:00 local time British Embassy, 5, J. Alunana Street, Riga, Latvia-LV-1010 https://www.facebook.com/events/872280919819869/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            24.1104497,56.9568169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Llandrindod Wells
+</name>
+        <description>31August 12:00 - 14:00 Start outside the Post Office https://www.facebook.com/events/2344892092297260/?ti=cl</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -3.3785109,52.2415464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perth High Street
+</name>
+        <description>31st August 10:30 - 12:00 High Street Perth https://www.facebook.com/events/1834117203357989/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -3.43316419999996,56.3936795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Northampton Cobbler's Statue]]></name>
+        <description><![CDATA[31st August 11:00 - 12:00 Cobbler's Statue, Abington St Northampton https://www.facebook.com/groups/SaveNorthantsServices/]]></description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -0.894690900000001,52.2378492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taunton, Market House
+</name>
+        <description>31st August 16:00 - 18:00, Market House, Fore St, Taunton https://www.facebook.com/1701975076791930/posts/2412604079062356/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -3.102886,51.0146991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chippenham New Road
+</name>
+        <description>31st August 10:00 - 12:00 New Road Chippenham https://www.facebook.com/ChippenhamCLP/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.11914860000002,51.4605989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Preston Flagmarket
+</name>
+        <description>31st August 14:30 - 18:00 Flag Market, Cheapside, Preston https://www.facebook.com/events/770163596773615/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.69927630000007,53.7583857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southport Town Hall
+</name>
+        <description>31st August 14:00 - 15:00 Southport Town Hall, Lord Street https://www.facebook.com/events/2448480988764783/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -3.00556400000005,53.6478522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Keswick, Market Sq
+</name>
+        <description>31st August 12:00 - 14:00 Derwent Close, adjacent to Market Square Keswick https://wcld.focusteam.org.uk/author/wclibdems/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -3.1386751,54.6011996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cheltenham, The Promenade
+</name>
+        <description>31st August 11:30 - 13:30 Promenade, Cheltenham https://www.facebook.com/events/425813274975211/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.07633369999996,51.8996595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wolverhampton Queen Square</name>
+        <description>31st August 11:00 - 13:00 The Man on the Horse, Queens Sq Wolverhampton https://www.facebook.com/events/559153738158735/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.12854659999994,52.5858767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lichfield Speakers Corner</name>
+        <description><![CDATA[31st August 12:00 - 14:00 Speaker's Corner, Top of Dam Street, Lichfield. https://www.facebook.com/events/497835354337496/]]></description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -1.82868380000002,52.6848372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roscoff Ferry Embarkation Pier
+</name>
+        <description>31st August 07:00 - 08:30 local time Ferry embarkation, Port du Bloscon, 29680 Roscoff, France https://www.facebook.com/events/497296260834188/</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -3.98532499999999,48.726199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Usk, Maryport St
+</name>
+        <description>31st August 13:00 - 15:00 Maryport St Usk https://twitter.com/ItRecks/status/1167035112493584384</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.90340079999999,51.7030762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kirkwall, Castle St
+</name>
+        <description>31st August, 12:00 - 15:00 Castle Street Kirkwall https://www.facebook.com/events/509696649833076/?ti=wa</description>
+        <styleUrl>#icon-1739-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9608614,58.9827905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,92 @@
+<!DOCTYPE html> 
+<html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+crossorigin=""></script>
+<script src="leaflet-providers.js"></script>
+<script src="L.KML.js"></script>  
+
+<style>
+body {display:grid; grid-template-areas: 'map'; grid-template-columns: 1fr; grid-template-rows: 100vh;}
+#mapid { grid-area: map; height: 100%; width:100%;}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>There you are</title>
+</head>
+<body>
+    <main id="mapid"></main>
+
+ <script>
+        const map = L.map('mapid').setView([51.510931, -0.11811132], 16);
+        //const tiles = L.tileLayer.provider('CartoDB.Voyager').addTo(map);
+        const tiles = L.tileLayer.provider('Stamen.Watercolor').addTo(map);
+//         const tiles = L.tileLayer.provider('Thunderforest.Pioneer').addTo(map);
+        //const tiles = L.tileLayer.provider('Stamen.Terrain').addTo(map);
+        let found_you=false;
+        //var somersethouse = L.marker([51.511119, -0.117116]).addTo(map);
+        /*var coventGardenRadius = L.circle([51.512370, -0.124170], 
+        {
+            color: 'red',
+            fillColor: '#f03',
+            fillOpacity: 0.5,
+            radius: 300
+        }).addTo(map);*/
+//         var kmlLayer = new L.KML("doc.kml", {async: true});
+//                                                               
+//          kmlLayer.on("loaded", function(e) { 
+//             map.fitBounds(e.target.getBounds());
+//          });
+//                                                 
+//          map.addLayer(kmlLayer); 
+            fetch('doc.kml')
+//             fetch('http://www.google.com/maps/d/u/0/kml?mid=126xVlyiCy5vkZhJFDVNJyMQFFuCuliV5')
+                .then(res => res.text())
+                .then(kmltext => {
+                    // Create new kml overlay
+                    const parser = new DOMParser();
+                    const kml = parser.parseFromString(kmltext, 'text/xml');
+                    const track = new L.KML(kml);
+                    map.addLayer(track);
+
+                    // Adjust map to show the kml
+                    const bounds = track.getBounds();
+                    map.fitBounds(bounds);
+                });
+        var watch = navigator.geolocation.watchPosition(locationUpdate, locationUpdateFail, 
+        {
+            enableHighAccuracy: false,
+            maximumAge: 30000,
+            timeout: 27000
+        });
+        
+        function locationUpdate(position) {
+            if (position.coords.accuracy <10000) {
+                var me = L.circle([position.coords.latitude, position.coords.longitude], 
+                    {
+                        color: 'green',
+                        fillColor: '#0f3',
+                        fillOpacity: 0.10,
+                        radius: position.coords.accuracy
+                    }).addTo(map);
+            if (!found_you) {
+                map.setView([position.coords.latitude, position.coords.longitude], 10);
+                found_you=true;
+                }
+            }
+        }
+        function locationUpdateFail(error) 
+        {
+            console.log("location fail: ", error);
+        }
+    </script>
+</body>
+</html>
+ 
+ 
+
+
