@@ -23,8 +23,9 @@ body {display:grid; grid-template-areas: 'map'; grid-template-columns: 1fr; grid
 
  <script>
         const map = L.map('mapid').setView([51.510931, -0.11811132], 16);
-        //const tiles = L.tileLayer.provider('CartoDB.Voyager').addTo(map);
-        const tiles = L.tileLayer.provider('Stamen.Watercolor').addTo(map);
+        const tiles = L.tileLayer.provider('OpenStreetMap.Mapnik').addTo(map);
+//         const tiles = L.tileLayer.provider('Stamen.Watercolor').addTo(map);
+//         const tiles = L.tileLayer.provider('Stamen.Toner').addTo(map);
 //         const tiles = L.tileLayer.provider('Thunderforest.Pioneer').addTo(map);
         //const tiles = L.tileLayer.provider('Stamen.Terrain').addTo(map);
         let found_you=false;
